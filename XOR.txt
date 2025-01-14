@@ -1,0 +1,7 @@
+since XOR gate is not a linearly seperable problem
+
+1. OR Gate
+first 3 cases correct (image OR.png)
+
+2. NAND Gate
+lat 3 cases correct (image NAND.png)
